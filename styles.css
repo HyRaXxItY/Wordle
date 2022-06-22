@@ -7,12 +7,6 @@
     font-display: fallback;
 }
 
-.ssvg {
-    color: #000;
-    box-shadow: 0.3px 0px 10px #fff;
-    fill: rgb(255, 0, 0);
-}
-
 .modal {
     font-family: 'Montserrat', sans-serif;
 }
@@ -50,7 +44,7 @@ body {
     border-radius: .25em;
     cursor: pointer;
     user-select: none;
-    text-shadow: 0.000056px 0px 20px rgb(0, 3, 0);
+    text-shadow: 0px 0px 23px rgb(0, 3, 0);
 }
 
 .key.large {
@@ -138,6 +132,12 @@ body {
 
 .tile.flip {
     transform: rotateX(90deg);
+}
+
+.ssvg {
+    color: #000;
+    box-shadow: 0.3px 0px 10px #fff;
+    fill: rgb(255, 0, 0);
 }
 
 @keyframes shake {
