@@ -15,6 +15,9 @@ simple and quick project, learned a lot about css and data attributes 🥳
 <img width="560" alt="4" src="https://user-images.githubusercontent.com/76240365/175109001-bd844493-ce3e-4d3a-a6ad-f9eed93a79ae.png">
 <img width="560" alt="5" src="https://user-images.githubusercontent.com/76240365/175109016-cfcaa7ac-068a-4ce4-b66a-e1670036f28f.png">
 <img width="560" alt="6" src="https://user-images.githubusercontent.com/76240365/175109027-e94b1a9b-3191-48ec-83ce-2d571128aefa.png">
-     cya later 👋                                   
+<br><br><br><br><br><br>
+CYA LATER 🐈
+     
                                       
-                                 
+                       
+
