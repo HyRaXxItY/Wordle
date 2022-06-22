@@ -15429,6 +15429,7 @@ function showAlert(message, duration = 1000) {
     const alert = document.createElement("div")
     alert.textContent = message
     alert.classList.add("alert")
+    alert.classList.add("modal")
     alertContainer.prepend(alert)
     if (duration == null) return
 
@@ -15454,7 +15455,12 @@ function shakeTiles(tiles) {
 
 function checkWinLose(guess, tiles) {
     if (guess === targetWord) {
-        showAlert("You Won 🥳", 999999000)
+        setTimeout(() => {
+            showAlert("You Won 🥳 ", 3000)
+        }, 800);
+        setTimeout(() => {
+            showAlert("Now let your friend try this one 😉  ", 999000)
+        }, 2500);
         danceTiles(tiles)
         stopInteraction()
         return
