@@ -6,6 +6,8 @@ As user guesses the wordle, the data it enters are dynamically allocated to thei
 
 simple and quick project, learned a lot about css and data attributes 🥳 
 
+(check deploy branch there you'll find the confetti effect code too)
+
 **SCREENSHOTS::
  
 <img width="560" alt="1" src="https://user-images.githubusercontent.com/76240365/175108967-be1e4d62-a38e-4477-8dbc-3348074da0ac.png">
